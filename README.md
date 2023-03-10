@@ -2,11 +2,11 @@
 Module 12 uses a command line application to interface with a content management system. This application is built from scratch and is called the People Finder.
 
 ## User Story
-AS A business owner
-I WANT to be able to view and manage the departments, roles, and employees in my company
-SO THAT I can organize and plan my business
+AS A business owner;
+I WANT to be able to view and manage the departments, roles, and employees in my company;
+SO THAT I can organize and plan my business;
 
-### Acceptance Criteria
+## Acceptance Criteria
 
 GIVEN a command-line application that accepts user input
 WHEN I start the application
