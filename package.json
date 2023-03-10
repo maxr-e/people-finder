@@ -1,0 +1,27 @@
+{
+  "name": "people-finder",
+  "version": "1.0.0",
+  "description": "Module 12 uses a command line application to interface with a content management system. This application is built from scratch and is called the People Finder.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxr-e/people-finder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxr-e/people-finder/issues"
+  },
+  "homepage": "https://github.com/maxr-e/people-finder#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.2.0",
+    "sequelize": "^6.29.2"
+  }
+}
