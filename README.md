@@ -6,7 +6,7 @@ AS A business owner
 I WANT to be able to view and manage the departments, roles, and employees in my company
 SO THAT I can organize and plan my business
 
-##Acceptance Criteria
+### Acceptance Criteria
 
 GIVEN a command-line application that accepts user input
 WHEN I start the application
